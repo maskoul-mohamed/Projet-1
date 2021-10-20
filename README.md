@@ -1,14 +1,14 @@
-# Projet-1
+# Projet-1 (Tribute page of linus torvalds)
 
 <h4 align="center"><a href="https://htmlpreview.github.io/?https://github.com/maskoul-mohamed/Projet-1/blob/main/realisation/index.html">Live version >></a></h4>
 
 ## Table of Contents
 
-- [About](https://github.com/bruna-genz/weather-app#built-with)
-- [Preview](https://github.com/bruna-genz/weather-app#preview)
-- [Built with](https://github.com/bruna-genz/weather-app#built-with)
-- [Author](https://github.com/bruna-genz/weather-app#author)
-- [Show your support](https://github.com/bruna-genz/weather-app#show-your-support)
+- [About](https://github.com/maskoul-mohamed/Projet-1#built-with)
+- [Preview](https://github.com/maskoul-mohamed/Projet-1#preview)
+- [Built with](https://github.com/maskoul-mohamed/Projet-1#built-with)
+- [Author](https://github.com/maskoul-mohamed/Projet-1#author)
+- [Show your support](https://github.com/maskoul-mohamed/Projet-1#show-your-support)
 
 
 ## About
