@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [About](https://github.com/maskoul-mohamed/Projet-1#built-with)
+- [About](https://github.com/maskoul-mohamed/Projet-1#about)
 - [Preview](https://github.com/maskoul-mohamed/Projet-1#preview)
 - [Built with](https://github.com/maskoul-mohamed/Projet-1#built-with)
 - [Author](https://github.com/maskoul-mohamed/Projet-1#author)
