@@ -1,0 +1,59 @@
+.container-static {
+    padding: 50px;
+    margin: 50px;
+    border: 5px solid black;
+    font-family: Arial, sans-serif;
+}
+
+
+.box-relative{
+    position: relative;
+    right: 100px;
+    color: #fff;
+    background: #00c4cc;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+    
+}
+
+
+
+.box-absolute{
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    color: #fff;
+    width: 60%;
+    background: #4cafdf;
+    padding: 20px;
+    
+}
+
+.container-absolute{
+    padding: 50px;
+    margin: 50px;
+    position: relative;
+    border: 5px solid black;
+    font-family: Arial, sans-serif;
+}
+.container-absolute p{
+    line-height: 50px;
+}
+.container-fixed {
+    padding: 50px;
+    margin: 50px;
+    position: relative;
+    border: 5px solid black;
+    font-family: Arial, sans-serif;
+}
+
+.box-fixed {
+    position: fixed;
+    top: 200px;
+    left: 100px;
+    color: #fff;
+    width: 60%;
+    background: #f44712;
+    padding: 20px;
+}

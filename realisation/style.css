@@ -47,18 +47,19 @@ h3 {
 }
 
 .main {
-    display: flex;
     position:absolute;
 }
 
 .left-col {
     margin: 40px;
-    width: 50%;
+    width: 40%;
+    float: left;
 }
 
 .right-col {
     margin: 120px 40px 40px 40px;
-    width: 50%;
+    width: 40%;
+    float: right;
 }
 
 .title {
